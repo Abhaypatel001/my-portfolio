@@ -204,7 +204,7 @@ window.addEventListener("scroll", revealSections);
 
 revealSections();
 
-// Contact Form
+
 
 const contactForm = document.getElementById("contactForm");
 

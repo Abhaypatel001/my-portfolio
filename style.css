@@ -19,7 +19,7 @@ header{
     text-align:center;
     padding:40px 20px;
 }
-/* Hero Section */
+
 
 .hero{
 
@@ -528,7 +528,7 @@ width:220px;
 .dark .about-info strong{
     color:#00d4ff;
 }
-/* Success Message */
+
 
 .success-message{
     display:none;
